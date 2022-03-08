@@ -1,0 +1,101 @@
+body{
+    background-color: 
+    #907258;
+}
+
+.places{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Bebas Neue', cursive;
+  font-style: italic;
+}
+h1{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+  font-style: italic;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.navbar, h2{
+   
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    
+} 
+.nav-link, .navbar-brand {
+    color: wheat!important;
+    padding: 5px;
+    font-style: italic;
+    text-decoration: none;
+    font-size: large;
+    
+}
+
+.nav-link:hover{
+color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.navbar:hover{
+    color: white;
+}
+
+.card-body {
+    background-color: wheat;
+    margin: auto;
+}
+h3, h2{
+    text-align:center;
+    padding:5px;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+h3  {
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+h4{
+text-align:center;
+font-family: 'Lato', sans-serif;
+font-style: italic;
+font-weight: bolder;
+}
+.row{
+    margin-top: 50px;
+}
+.btn{
+    color: wheat;
+    font-style: italic;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 30px;
+   text-decoration: none;
+  }
+ .bi-instagram, .bi-facebook, .bi-twitter{
+    margin-top: 30px;
+    margin: 5px;
+ }
+ .social{
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ .location, .card{
+     
+     margin: 20px;
+ }
+ .card-title, .card-text{
+    text-align:center;
+ }
+  
+ hr{ 
+     
+ color: #111111  ;
+ padding:  1px;
+
+    }
+   
